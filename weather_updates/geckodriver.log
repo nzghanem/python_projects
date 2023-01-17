@@ -1,0 +1,1469 @@
+1656181005629	geckodriver	INFO	Listening on 127.0.0.1:57793
+1656181005889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57794" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileJO7hCu"
+1656181007027	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57794
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileJO7hCu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656181010512	Marionette	INFO	Listening on port 57822
+Read port: 57822
+1656181010585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57794/devtools/browser/55758bab-255f-49a7-b71b-46145dfec4f9
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1656181012716	Marionette	INFO	Stopped listening on port 57822
+1656181038125	geckodriver	INFO	Listening on 127.0.0.1:57893
+1656181038145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57894" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiledDdJ3v"
+1656181038871	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57894
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiledDdJ3v/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656181041552	Marionette	INFO	Listening on port 57915
+Read port: 57915
+1656181041580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57894/devtools/browser/be8c0fd1-5b41-4167-9243-576b550a58a8
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1656181063013	geckodriver	INFO	Listening on 127.0.0.1:58004
+1656181063027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58005" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCWdfRc"
+1656181063875	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58005
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCWdfRc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656181066787	Marionette	INFO	Listening on port 58026
+DevTools listening on ws://localhost:58005/devtools/browser/67a65dbd-0e65-4676-9523-db410b14e917
+Read port: 58026
+1656181066878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1656348562463	geckodriver	INFO	Listening on 127.0.0.1:55437
+1656348562492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55438" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileq1UHfL"
+1656348563284	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55438
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileq1UHfL/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348565992	Marionette	INFO	Listening on port 55465
+Read port: 55465
+DevTools listening on ws://localhost:55438/devtools/browser/e77f773b-c3ac-4d22-b956-36eb85882e36
+1656348566044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348570338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656348575479	Marionette	INFO	Stopped listening on port 55465
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656348708711	geckodriver	INFO	Listening on 127.0.0.1:55634
+1656348708738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55635" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile555V8c"
+1656348709506	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55635
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile555V8c/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348712382	Marionette	INFO	Listening on port 55658
+DevTools listening on ws://localhost:55635/devtools/browser/774f8a22-fb7c-423c-a554-4e1dcbded2c2
+Read port: 55658
+1656348712496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348722510	Marionette	INFO	Stopped listening on port 55658
+1656348782480	geckodriver	INFO	Listening on 127.0.0.1:55795
+1656348782503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55796" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileM22P81"
+1656348783198	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55796
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileM22P81/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348786083	Marionette	INFO	Listening on port 55819
+Read port: 55819
+DevTools listening on ws://localhost:55796/devtools/browser/56e8ad2e-fcef-414b-b892-856d5dc0859a
+1656348786139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348789357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348797417	Marionette	INFO	Stopped listening on port 55819
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656348847527	geckodriver	INFO	Listening on 127.0.0.1:55981
+1656348847548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55982" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileag1fJH"
+1656348848351	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55982
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileag1fJH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348851069	Marionette	INFO	Listening on port 56003
+DevTools listening on ws://localhost:55982/devtools/browser/d6d54f3c-2fdc-4667-8722-870404f9e112
+Read port: 56003
+1656348851193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348854549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348860194	Marionette	INFO	Stopped listening on port 56003
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656348898013	geckodriver	INFO	Listening on 127.0.0.1:56139
+1656348898038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56140" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile0Z0qYC"
+1656348898956	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56140
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile0Z0qYC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348901687	Marionette	INFO	Listening on port 56163
+Read port: 56163
+DevTools listening on ws://localhost:56140/devtools/browser/9fc0458b-b81a-489a-ac16-c2fd7320c6bb
+1656348901823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348905337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656348932774	geckodriver	INFO	Listening on 127.0.0.1:56318
+1656348933319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56319" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileywvyrH"
+1656348934183	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56319
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileywvyrH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656348937096	Marionette	INFO	Listening on port 56344
+DevTools listening on ws://localhost:56319/devtools/browser/7d243f91-ac89-4e95-8c56-5e1dcf36150b
+Read port: 56344
+1656348937177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348940793	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656348946712	Marionette	INFO	Stopped listening on port 56344
+1656349135391	geckodriver	INFO	Listening on 127.0.0.1:56502
+1656349135411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56503" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexSp6VH"
+1656349136207	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56503
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexSp6VH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656349138993	Marionette	INFO	Listening on port 56528
+DevTools listening on ws://localhost:56503/devtools/browser/f858b163-e18c-4d48-9c69-a2302c1cfca8
+Read port: 56528
+1656349139059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656349149784	Marionette	INFO	Stopped listening on port 56528
+1656353241218	geckodriver	INFO	Listening on 127.0.0.1:64300
+1656353241243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64301" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileKtNkJZ"
+1656353242145	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64301
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileKtNkJZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656353244754	Marionette	INFO	Listening on port 64320
+DevTools listening on ws://localhost:64301/devtools/browser/90b88f69-67a5-4ab8-b8dd-982fa38b3bcc
+Read port: 64320
+1656353244818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353249212	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353274138	Marionette	INFO	Stopped listening on port 64320
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656353341016	geckodriver	INFO	Listening on 127.0.0.1:64537
+1656353341033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64538" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileEMJwis"
+1656353341854	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64538
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileEMJwis/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656353344602	Marionette	INFO	Listening on port 64559
+DevTools listening on ws://localhost:64538/devtools/browser/77c97b53-d6f9-4098-8796-a5b566a00677
+Read port: 64559
+1656353344733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656353373654	Marionette	INFO	Stopped listening on port 64559
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656353522423	geckodriver	INFO	Listening on 127.0.0.1:64757
+1656353522442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64758" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileM6rO6t"
+1656353523303	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64758
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileM6rO6t/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656353526065	Marionette	INFO	Listening on port 64777
+DevTools listening on ws://localhost:64758/devtools/browser/f71950c8-13be-405d-8079-fc04b7b6a6bc
+Read port: 64777
+1656353526202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353529913	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353556353	Marionette	INFO	Stopped listening on port 64777
+1656353664245	geckodriver	INFO	Listening on 127.0.0.1:64953
+1656353664263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64954" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileMkUPSX"
+1656353665052	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64954
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileMkUPSX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656353667845	Marionette	INFO	Listening on port 64981
+Read port: 64981
+1656353667917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64954/devtools/browser/5862a24d-2785-40c2-8178-6be38f542d5d
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353671960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656353697870	Marionette	INFO	Stopped listening on port 64981
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656354268388	geckodriver	INFO	Listening on 127.0.0.1:65382
+1656354268935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65383" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileVZX0Ef"
+1656354269779	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65383
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileVZX0Ef/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656354272713	Marionette	INFO	Listening on port 65408
+Read port: 65408
+1656354272786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:65383/devtools/browser/01716568-ab3a-4c4e-be52-0b0e862f6309
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354276953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656354303491	Marionette	INFO	Stopped listening on port 65408
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656354348627	geckodriver	INFO	Listening on 127.0.0.1:49182
+1656354348652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49183" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexpNBuq"
+1656354349451	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49183
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexpNBuq/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656354352672	Marionette	INFO	Listening on port 49208
+DevTools listening on ws://localhost:49183/devtools/browser/aac364b2-b7a1-4cd3-904e-d7bdf60b977d
+Read port: 49208
+1656354352850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354355480	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354364587	geckodriver	INFO	Listening on 127.0.0.1:49317
+1656354364604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49318" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileDLpZOz"
+1656354365711	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49318
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileDLpZOz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656354368352	Marionette	INFO	Listening on port 49339
+Read port: 49339
+DevTools listening on ws://localhost:49318/devtools/browser/2bf56e97-08a6-46c1-b6e6-812330b093b1
+1656354368477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656354371805	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656354398561	Marionette	INFO	Stopped listening on port 49339
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656355356116	geckodriver	INFO	Listening on 127.0.0.1:49870
+1656355356664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49871" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileBSLkU2"
+1656355357841	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49871
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileBSLkU2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656355360738	Marionette	INFO	Listening on port 49896
+Read port: 49896
+DevTools listening on ws://localhost:49871/devtools/browser/5c85c8c5-84d4-4d1f-a49a-91cf61d122df
+1656355360859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656355364154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656355390725	Marionette	INFO	Stopped listening on port 49896
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656355447652	geckodriver	INFO	Listening on 127.0.0.1:50057
+1656355447682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50058" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileAcOpKB"
+1656355448479	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50058
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileAcOpKB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656355451256	Marionette	INFO	Listening on port 50081
+Read port: 50081
+1656355451486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50058/devtools/browser/7b0a9146-aa3f-46a0-88c4-0c40ff99cd03
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656355455102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656355481644	Marionette	INFO	Stopped listening on port 50081
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656356005843	geckodriver	INFO	Listening on 127.0.0.1:50446
+1656356005874	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50447" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile5U1xbs"
+1656356006976	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50447
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile5U1xbs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356009771	Marionette	INFO	Listening on port 50470
+Read port: 50470
+1656356009850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50447/devtools/browser/1b19772f-5872-46c7-b86d-89e84744612e
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356013367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356039643	Marionette	INFO	Stopped listening on port 50470
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656356070486	geckodriver	INFO	Listening on 127.0.0.1:50615
+1656356070506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50616" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZzpcmj"
+1656356071309	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50616
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZzpcmj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356073994	Marionette	INFO	Listening on port 50637
+DevTools listening on ws://localhost:50616/devtools/browser/e121e74f-fa13-4312-81e1-fda321602e9a
+Read port: 50637
+1656356074082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356105710	Marionette	INFO	Stopped listening on port 50637
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656356137803	geckodriver	INFO	Listening on 127.0.0.1:50782
+1656356137823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50783" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileOQNOOi"
+1656356138824	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50783
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileOQNOOi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356141982	Marionette	INFO	Listening on port 50806
+Read port: 50806
+1656356142077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50783/devtools/browser/e11021bb-9f26-4b13-b8e3-9449fe662b26
+1656356154744	geckodriver	INFO	Listening on 127.0.0.1:50863
+1656356154758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50864" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile1URi8Z"
+1656356155505	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50864
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile1URi8Z/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356158691	Marionette	INFO	Listening on port 50883
+DevTools listening on ws://localhost:50864/devtools/browser/4ea3d8f4-6630-4bdc-92c2-44e131a872eb
+Read port: 50883
+1656356158823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356162388	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356189023	Marionette	INFO	Stopped listening on port 50883
+1656356397845	geckodriver	INFO	Listening on 127.0.0.1:51448
+1656356397869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51449" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZ6ZbWD"
+1656356398721	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51449
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZ6ZbWD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356401545	Marionette	INFO	Listening on port 51462
+DevTools listening on ws://localhost:51449/devtools/browser/98672079-8b21-4c5e-85f6-95df7ab07fa0
+Read port: 51462
+1656356401649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656356443873	Marionette	INFO	Stopped listening on port 51462
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656356444922	geckodriver	INFO	Listening on 127.0.0.1:51638
+1656356445436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51639" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilennKvFX"
+1656356446261	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51639
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilennKvFX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356448872	Marionette	INFO	Listening on port 51652
+DevTools listening on ws://localhost:51639/devtools/browser/316fed78-b6f9-420b-a5a8-17e3a781e7aa
+Read port: 51652
+1656356448967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356464495	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656356490694	Marionette	INFO	Stopped listening on port 51652
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656356843490	geckodriver	INFO	Listening on 127.0.0.1:51976
+1656356843515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51977" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileBLncAJ"
+1656356845439	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51977
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileBLncAJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356848530	Marionette	INFO	Listening on port 51998
+DevTools listening on ws://localhost:51977/devtools/browser/e77e5483-739b-4e45-b024-5532e1e01ffa
+Read port: 51998
+1656356848684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: https://www.msn.com/weather/service-worker.js?telemetrySync=true, line 1: queue-replay-failed: queue-replay-failed :: [{"name":"telemetry"}]
+1656356904967	geckodriver	INFO	Listening on 127.0.0.1:52174
+1656356904995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52175" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileOFT1xS"
+1656356906237	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52175
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileOFT1xS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356909430	Marionette	INFO	Listening on port 52201
+DevTools listening on ws://localhost:52175/devtools/browser/43cae9eb-d7e0-41b5-ae17-85fc053f4492
+Read port: 52201
+1656356909522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656356950011	Marionette	INFO	Stopped listening on port 52201
+1656356951625	geckodriver	INFO	Listening on 127.0.0.1:52372
+1656356952127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52373" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCtzqzC"
+1656356953062	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52373
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCtzqzC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656356956431	Marionette	INFO	Listening on port 52396
+Read port: 52396
+1656356956530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52373/devtools/browser/a0ba90b2-0bf1-49e3-95d3-2b961819a69e
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.msn.com/weather/service-worker.js?telemetrySync=true, line 1: queue-replay-failed: queue-replay-failed :: [{"name":"telemetry"}]
+1656356989984	Marionette	INFO	Stopped listening on port 52396
+1656357296640	geckodriver	INFO	Listening on 127.0.0.1:52842
+1656357296664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52843" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileqIx0vZ"
+1656357297473	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52843
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileqIx0vZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656357300156	Marionette	INFO	Listening on port 52862
+Read port: 52862
+DevTools listening on ws://localhost:52843/devtools/browser/791476d0-f440-4c89-a3be-5671bfac5a3c
+1656357300340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656357309366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656357335318	Marionette	INFO	Stopped listening on port 52862
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656357612522	geckodriver	INFO	Listening on 127.0.0.1:53142
+1656357613054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53143" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileNi4XS0"
+1656357614287	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53143
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileNi4XS0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656357617148	Marionette	INFO	Listening on port 53166
+DevTools listening on ws://localhost:53143/devtools/browser/fd500d88-d804-4c9d-a991-5387077e3385
+Read port: 53166
+1656357617272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656357647628	Marionette	INFO	Stopped listening on port 53166
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656357761524	geckodriver	INFO	Listening on 127.0.0.1:53349
+1656357761548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53350" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileq7JoJE"
+1656357762545	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53350
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileq7JoJE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656357766177	Marionette	INFO	Listening on port 53377
+DevTools listening on ws://localhost:53350/devtools/browser/4157cfb0-a91b-49cd-ad08-af8fad40b5d2
+Read port: 53377
+1656357766262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656357769639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656357781098	Marionette	INFO	Stopped listening on port 53377
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656357789498	Marionette	INFO	Stopped listening on port 51998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656357793195	Marionette	INFO	Stopped listening on port 50806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656357823308	geckodriver	INFO	Listening on 127.0.0.1:53551
+1656357823841	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53552" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileP4jlXQ"
+1656357824643	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53552
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileP4jlXQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656357827389	Marionette	INFO	Listening on port 53575
+DevTools listening on ws://localhost:53552/devtools/browser/58960627-d878-4830-afe1-0e426118865b
+Read port: 53575
+1656357827476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656357831187	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656357858761	Marionette	INFO	Stopped listening on port 53575
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656358153211	geckodriver	INFO	Listening on 127.0.0.1:53777
+1656358153228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53778" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilekCigBI"
+1656358153992	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53778
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilekCigBI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656358156785	Marionette	INFO	Listening on port 53799
+Read port: 53799
+DevTools listening on ws://localhost:53778/devtools/browser/53acd668-92db-4018-a269-ae23e318bbf8
+1656358156903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656358161971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656358187291	Marionette	INFO	Stopped listening on port 53799
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656358244763	Marionette	INFO	Stopped listening on port 56163
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656358269102	Marionette	INFO	Stopped listening on port 49208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656358444525	geckodriver	INFO	Listening on 127.0.0.1:54086
+1656358444550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54087" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile8ywL7n"
+1656358445312	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54087
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile8ywL7n/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656358448248	Marionette	INFO	Listening on port 54108
+Read port: 54108
+1656358448297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54087/devtools/browser/b5929a8f-5dbc-42db-b34a-6b01de67ab44
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656358452483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656358479776	Marionette	INFO	Stopped listening on port 54108
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656359014869	geckodriver	INFO	Listening on 127.0.0.1:54322
+1656359014888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54323" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexDGGTN"
+1656359015731	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54323
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilexDGGTN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359018565	Marionette	INFO	Listening on port 54344
+Read port: 54344
+1656359018661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54323/devtools/browser/104f3700-a094-4b24-9de6-fefd06a9d7da
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359022514	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359026114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359037211	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359051070	Marionette	INFO	Stopped listening on port 54344
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656359236962	geckodriver	INFO	Listening on 127.0.0.1:54536
+1656359236976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54537" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileEgzwGJ"
+1656359237894	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54537
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileEgzwGJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359241070	Marionette	INFO	Listening on port 54558
+Read port: 54558
+1656359241161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54537/devtools/browser/2698ef2e-803d-457c-9ca8-16d8e7e519fb
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359245855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359248304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359259436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359270206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359271464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359272215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359273501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359274775	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359276051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1656359276277	Marionette	INFO	Stopped listening on port 54558
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656359367494	geckodriver	INFO	Listening on 127.0.0.1:54705
+1656359368018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54706" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiled9reTJ"
+1656359368768	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54706
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiled9reTJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359371502	Marionette	INFO	Listening on port 54731
+DevTools listening on ws://localhost:54706/devtools/browser/cdd371c1-5ef7-4eb3-85e8-d9cf74ea8196
+Read port: 54731
+1656359371588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359374515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656359400979	Marionette	INFO	Stopped listening on port 54731
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656359606241	geckodriver	INFO	Listening on 127.0.0.1:54917
+1656359606254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54918" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileX2LWbb"
+1656359606955	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54918
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileX2LWbb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359609595	Marionette	INFO	Listening on port 54939
+DevTools listening on ws://localhost:54918/devtools/browser/8473c932-af5e-4ca1-8a02-a20acec578bb
+Read port: 54939
+1656359609703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359652795	geckodriver	INFO	Listening on 127.0.0.1:55078
+1656359652809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55079" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiledEqnu6"
+1656359653465	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55079
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiledEqnu6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359656443	Marionette	INFO	Listening on port 55102
+DevTools listening on ws://localhost:55079/devtools/browser/81c67ae2-c3ed-4064-bce5-1f8d845f27e9
+Read port: 55102
+1656359656602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359661130	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656359664084	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656359690345	Marionette	INFO	Stopped listening on port 55102
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656359761996	geckodriver	INFO	Listening on 127.0.0.1:55261
+1656359762014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55262" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilePz7cAH"
+1656359762775	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55262
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilePz7cAH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656359765404	Marionette	INFO	Listening on port 55284
+Read port: 55284
+DevTools listening on ws://localhost:55262/devtools/browser/f5fda296-2f63-49c9-8841-2594595912ec
+1656359765509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656359794056	Marionette	INFO	Stopped listening on port 55284
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656361333232	geckodriver	INFO	Listening on 127.0.0.1:55702
+1656361333250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilen5KB2s"
+1656361334005	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55703
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilen5KB2s/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656361336645	Marionette	INFO	Listening on port 55724
+DevTools listening on ws://localhost:55703/devtools/browser/9073136f-e5ef-44ec-9237-4d2cb9d8bd34
+Read port: 55724
+1656361336730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656361366694	Marionette	INFO	Stopped listening on port 55724
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656364200501	Marionette	INFO	Stopped listening on port 54939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656393465377	geckodriver	INFO	Listening on 127.0.0.1:57319
+1656393465897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57320" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileYDROVs"
+1656393466828	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57320
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileYDROVs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656393470275	Marionette	INFO	Listening on port 57345
+Read port: 57345
+1656393470358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57320/devtools/browser/fef6915a-4b93-4385-bbcf-9528c4a3e853
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.77dc427df3b6fd341eca.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.ced988988bf91f47c393.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656393477371	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656393501951	Marionette	INFO	Stopped listening on port 57345
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656440132423	geckodriver	INFO	Listening on 127.0.0.1:58901
+1656440132962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58902" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile7qPTg8"
+1656440133755	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58902
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofile7qPTg8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440136558	Marionette	INFO	Listening on port 58927
+DevTools listening on ws://localhost:58902/devtools/browser/30067ab5-79e0-40bb-aef5-13e554610ff4
+Read port: 58927
+1656440136611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440140677	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440161152	Marionette	INFO	Stopped listening on port 58927
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656440164295	geckodriver	INFO	Listening on 127.0.0.1:59084
+1656440164807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59085" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCQthHT"
+1656440165732	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59085
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileCQthHT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440168584	Marionette	INFO	Listening on port 59108
+Read port: 59108
+1656440168648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59085/devtools/browser/93874134-33ea-4555-9e2e-a0f559b16ca6
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440172488	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440180863	geckodriver	INFO	Listening on 127.0.0.1:59248
+1656440181390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59249" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilehRQdBk"
+1656440182835	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59249
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilehRQdBk/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440186204	Marionette	INFO	Listening on port 59285
+DevTools listening on ws://localhost:59249/devtools/browser/78e1e997-5796-4c0d-9779-fb7976ebecbd
+Read port: 59285
+1656440186362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440189354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440196588	Marionette	INFO	Stopped listening on port 59285
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1656440199472	geckodriver	INFO	Listening on 127.0.0.1:59430
+1656440199489	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59431" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiles05tZd"
+1656440200418	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59431
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofiles05tZd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440203138	Marionette	INFO	Listening on port 59452
+Read port: 59452
+1656440203189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:59431/devtools/browser/a6419835-39e2-44cd-b506-5515837fa2c2
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440207193	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440243470	Marionette	INFO	Stopped listening on port 59452
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656440247477	geckodriver	INFO	Listening on 127.0.0.1:59604
+1656440247494	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59605" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileGHeOPw"
+1656440248349	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:59605
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileGHeOPw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440251201	Marionette	INFO	Listening on port 59624
+DevTools listening on ws://localhost:59605/devtools/browser/0a0fb4e2-461f-435f-bb5e-f92bcda1aa62
+Read port: 59624
+1656440251300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440255195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440298236	geckodriver	INFO	Listening on 127.0.0.1:59760
+1656440298253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59761" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilem2iWfx"
+1656440299625	Marionette	INFO	Marionette enabled
+1656440299829	Marionette	INFO	Stopped listening on port 59624
+WebDriver BiDi listening on ws://localhost:59761
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofilem2iWfx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440302851	Marionette	INFO	Listening on port 59784
+DevTools listening on ws://localhost:59761/devtools/browser/d6c528ad-41d9-4342-ba0f-37e076c5320f
+Read port: 59784
+1656440302980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656440642990	geckodriver	INFO	Listening on 127.0.0.1:60876
+1656440643010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60877" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileQtt6t8"
+1656440643887	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60877
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileQtt6t8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440646505	Marionette	INFO	Listening on port 60888
+Read port: 60888
+DevTools listening on ws://localhost:60877/devtools/browser/dee655d5-8893-4962-ba26-a475148745c0
+1656440646562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440829676	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1656440847506	geckodriver	INFO	Listening on 127.0.0.1:61496
+1656440848043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61497" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZ5k8lE"
+1656440848940	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61497
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileZ5k8lE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656440851866	Marionette	INFO	Listening on port 61516
+Read port: 61516
+DevTools listening on ws://localhost:61497/devtools/browser/d07b81dd-d9b6-4285-a648-a348309bf38a
+1656440851930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656440893054	Marionette	INFO	Stopped listening on port 61516
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656443366869	geckodriver	INFO	Listening on 127.0.0.1:62730
+1656443367405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62731" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileP1QOrW"
+1656443368134	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62731
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileP1QOrW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656443370779	Marionette	INFO	Listening on port 62758
+Read port: 62758
+1656443370821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62731/devtools/browser/1f4ae1bd-3982-4687-83e2-916f7a82993e
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656443407909	Marionette	INFO	Stopped listening on port 62758
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1656443520799	geckodriver	INFO	Listening on 127.0.0.1:62971
+1656443520822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62972" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileso86dM"
+1656443521713	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62972
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c_/_4frksts7nqfjlvjdvh85p340000gn/T/rust_mozprofileso86dM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1656443524098	Marionette	INFO	Listening on port 62993
+Read port: 62993
+1656443524260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62972/devtools/browser/f29baeca-0b0c-4da9-ac95-baa869512ff9
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-mini.da1c54a74328854b40ee.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/weather-map-carousel.9613df8231002016e91b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.msn.com/bundles/v1/weather/latest/pivots-nav.b4a0da9e410bfc232515.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1656443564728	Marionette	INFO	Stopped listening on port 62993
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1656443584620	Marionette	INFO	Stopped listening on port 60888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656443586877	Marionette	INFO	Stopped listening on port 59784
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656443588980	Marionette	INFO	Stopped listening on port 59108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
